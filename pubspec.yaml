@@ -4,8 +4,8 @@ version: 1.0.7
 authors:
 - Jonas Bark <jonas.bark@gmx.de>
 - John Blanchard <jnblanchard@mac.com>
-homepage: https://github.com/jonasbark/flutter_stripe_payment
-
+homepage: https://github.com/agyapongdaniel7777/flutter_stripe_clone
+#github.com/agyapongdaniel7777/flutter_stripe_clone.git
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
